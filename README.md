@@ -115,7 +115,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@SeannWardd](https://twitter.com/SeannWardd) - wardsean15@gmail.com
+Sean Ward - wardsean15@gmail.com
 
 Project Link: [https://github.com/spward/react-template-sean](https://github.com/spward/react-template-sean)
 
